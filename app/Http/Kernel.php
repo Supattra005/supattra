@@ -1,0 +1,1 @@
+\Inertia\Middleware::class,php artisan ui react
